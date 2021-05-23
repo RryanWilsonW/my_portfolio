@@ -1,0 +1,11 @@
+.navItems {
+    list-style: none;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+.navItems :hover {
+    background-color: rgb(132, 132, 143);
+}
+
