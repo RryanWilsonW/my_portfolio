@@ -1,11 +1,19 @@
 .navItems {
-    list-style: none;
     text-align: center;
     color: white;
     padding-top: 20px;
 }
+.link {
+    font-size: 20px;
+    padding: 0px 60px;
+    color: white;
+    text-decoration: none;
+}
 
 .navItems :hover {
-    background-color: rgb(132, 132, 143);
+    background-color: #04001A;
+    color: white;
+    text-decoration: none;
+    opacity: 75%;
 }
 
