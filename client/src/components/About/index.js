@@ -10,11 +10,11 @@ const About = () => {
             <img className='me' src={me}></img>
 
         </div>
-        <div className='col-md-6 about-section'>
+        <div className='col-md-5 about-section'>
             <h2>Hello! My name is Ryan, and I would like to tell you a bit about myself.</h2>
 
             <p className='about-text'>
-                With a strong affiliation with science, and a full-stack web development certificate from Case Western 
+                With a strong affiliation for science, and a full-stack web development certificate from Case Western 
                 the power of complexity in coding becomes simplified. Highly disciplined, with a genuine passion for problem
                 solving, and a multigenerational perspective of trends innovative complexity from front to back end development 
                 comes naturally. 
