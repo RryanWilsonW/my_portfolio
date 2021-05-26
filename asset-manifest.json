@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/my_portfolio/static/css/main.f7f405c2.chunk.css",
-    "main.js": "/my_portfolio/static/js/main.255e6645.chunk.js",
-    "main.js.map": "/my_portfolio/static/js/main.255e6645.chunk.js.map",
+    "main.css": "/my_portfolio/static/css/main.179345f6.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.7dc851f3.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.7dc851f3.chunk.js.map",
     "runtime-main.js": "/my_portfolio/static/js/runtime-main.19f1007f.js",
     "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.19f1007f.js.map",
     "static/css/2.61b4cb56.chunk.css": "/my_portfolio/static/css/2.61b4cb56.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.7cacd3e3.chunk.js.map": "/my_portfolio/static/js/3.7cacd3e3.chunk.js.map",
     "index.html": "/my_portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/my_portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.f7f405c2.chunk.css.map": "/my_portfolio/static/css/main.f7f405c2.chunk.css.map",
+    "static/css/main.179345f6.chunk.css.map": "/my_portfolio/static/css/main.179345f6.chunk.css.map",
     "static/js/2.8e32a304.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.8e32a304.chunk.js.LICENSE.txt",
     "static/media/cats.9dec8523.png": "/my_portfolio/static/media/cats.9dec8523.png",
     "static/media/employee.9d4cb2fc.png": "/my_portfolio/static/media/employee.9d4cb2fc.png",
+    "static/media/me.d72cd41d.jpg": "/my_portfolio/static/media/me.d72cd41d.jpg",
     "static/media/moviemadness.500095ef.gif": "/my_portfolio/static/media/moviemadness.500095ef.gif",
     "static/media/p-bg.05379650.jpeg": "/my_portfolio/static/media/p-bg.05379650.jpeg",
     "static/media/app.css": "/my_portfolio/static/media/p-bg2.0e57300a.jpeg",
-    "static/media/prof-img.3b994013.jpg": "/my_portfolio/static/media/prof-img.3b994013.jpg",
     "static/media/quiz.80206985.png": "/my_portfolio/static/media/quiz.80206985.png",
     "static/media/weather.2825f07d.png": "/my_portfolio/static/media/weather.2825f07d.png",
     "static/media/wellness.18b63ef8.gif": "/my_portfolio/static/media/wellness.18b63ef8.gif"
@@ -28,7 +28,7 @@
     "static/js/runtime-main.19f1007f.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.8e32a304.chunk.js",
-    "static/css/main.f7f405c2.chunk.css",
-    "static/js/main.255e6645.chunk.js"
+    "static/css/main.179345f6.chunk.css",
+    "static/js/main.7dc851f3.chunk.js"
   ]
 }
