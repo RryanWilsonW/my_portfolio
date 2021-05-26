@@ -13,6 +13,8 @@ import movie from '../../imgs/moviemadness.gif';
 import employee from '../../imgs/employee.png';
 import weather from '../../imgs/weather.png';
 import cats from '../../imgs/cats.png';
+import wellness from '../../imgs/wellness.gif';
+import quiz from '../../imgs/quiz.png';
 
 const useStyles = makeStyles((theme) => ({
     cardGrid: {
@@ -47,6 +49,7 @@ const useStyles = makeStyles((theme) => ({
       },
       {
         id: 2,
+        image: wellness,
         project: "Well Rounded Fitness",
         description: "Well rounded fitness is a wellness application that a user can use to evaluate their overall being.",
         github: "https://github.com/Chamilitary216/Wellness_Project",
@@ -75,6 +78,14 @@ const useStyles = makeStyles((theme) => ({
         description: "Cat lovers can come to our website and search for different types of cats that are available for adoption.",
         github: "https://github.com/RryanWilsonW/adoptable-cats",
         deployed: "https://hughesthatgirl.github.io/adoptable-cats/"
+      },
+      {
+      id: 5,
+      image: quiz,
+      project: "Finding the Weakest Link",
+      description: "In this program the user is presented with a quiz to test their knowledge of computer programming.",
+      github: "https://github.com/RryanWilsonW/finding_the_weakest_link",
+      deployed: "https://rryanwilsonw.github.io/finding_the_weakest_link/"
       }
   ];
 
@@ -84,23 +95,23 @@ const Portfolio = () => {
         <div className='portfolio'>
             <h1 className='projects'>Projects</h1>
             <Container className={classes.cardGrid} maxWidth="md">
-          <Grid container spacing={10}>
-            {cards.map((card) => (
-              <Grid item key={card} xs={12} sm={6} md={6}>
-                <Card className={classes.card}>
-                  <CardMedia
-                    className={classes.cardMedia}
-                    image={card.image}
-                    title="Image title"
-                  />
-                  <CardContent className={classes.cardContent}>
-                    <Typography gutterBottom variant="h5" component="h2">
-                      {card.project}
-                    </Typography>
-                    <Typography>
-                      {card.description}
-                    </Typography>
-                  </CardContent>
+              <Grid container spacing={10}>
+                {cards.map((card) => (
+                    <Grid className='cards' item key={card} xs={12} sm={6} md={6}>
+                    <Card className={classes.card}>
+                    <CardMedia
+                      className={classes.cardMedia}
+                      image={card.image}
+                      title="Image title"
+                    />
+                    <CardContent className={classes.cardContent}>
+                      <Typography gutterBottom variant="h5" component="h2">
+                        {card.project}
+                      </Typography>
+                      <Typography>
+                        {card.description}
+                      </Typography>
+                    </CardContent>
                   <CardActions className={classes.cardContent}>
                     <Button className={classes.button} size="small" color="primary">
                       <a href={card.github} target='_blank'>Github Repository</a>

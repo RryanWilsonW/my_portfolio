@@ -1,10 +1,11 @@
 import React from 'react';
 import './style.css'
-import me from '../../imgs/me.jpg';
+import me from '../../imgs/prof-img.jpg';
 const About = () => {
     return (
     <div className='about row'>
-        <div className='col-md-6 intro'>
+        <div className='col-md-1'></div>
+        <div className='col-md-5 intro'>
             <h1>Ryan Wilson</h1>
             <p>Full Stack MERN Developer</p>
             <img className='me' src={me}></img>
