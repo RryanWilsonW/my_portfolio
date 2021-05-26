@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.6b60b989.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.89ac95a6.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.89ac95a6.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.9a6153bd.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.9a6153bd.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/react-portfolio/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e44df5b5.chunk.js": "/react-portfolio/static/js/2.e44df5b5.chunk.js",
+    "static/js/2.e44df5b5.chunk.js.map": "/react-portfolio/static/js/2.e44df5b5.chunk.js.map",
+    "static/js/3.7cacd3e3.chunk.js": "/react-portfolio/static/js/3.7cacd3e3.chunk.js",
+    "static/js/3.7cacd3e3.chunk.js.map": "/react-portfolio/static/js/3.7cacd3e3.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/react-portfolio/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.6b60b989.chunk.css.map": "/react-portfolio/static/css/main.6b60b989.chunk.css.map",
+    "static/js/2.e44df5b5.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.e44df5b5.chunk.js.LICENSE.txt",
+    "static/media/cats.9dec8523.png": "/react-portfolio/static/media/cats.9dec8523.png",
+    "static/media/employee.9d4cb2fc.png": "/react-portfolio/static/media/employee.9d4cb2fc.png",
+    "static/media/moviemadness.500095ef.gif": "/react-portfolio/static/media/moviemadness.500095ef.gif",
+    "static/media/p-bg.05379650.jpeg": "/react-portfolio/static/media/p-bg.05379650.jpeg",
+    "static/media/app.css": "/react-portfolio/static/media/p-bg2.0e57300a.jpeg",
+    "static/media/prof-img.3b994013.jpg": "/react-portfolio/static/media/prof-img.3b994013.jpg",
+    "static/media/quiz.80206985.png": "/react-portfolio/static/media/quiz.80206985.png",
+    "static/media/weather.2825f07d.png": "/react-portfolio/static/media/weather.2825f07d.png",
+    "static/media/wellness.18b63ef8.gif": "/react-portfolio/static/media/wellness.18b63ef8.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a6153bd.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e44df5b5.chunk.js",
+    "static/css/main.6b60b989.chunk.css",
+    "static/js/main.89ac95a6.chunk.js"
+  ]
+}
