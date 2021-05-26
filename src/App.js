@@ -1,5 +1,5 @@
 import image from './imgs/p-bg.jpeg';
-import {BrowserRouter, Route, Router, Switch} from 'react-router-dom'
+import {HashRouter, Route, Router, Switch} from 'react-router-dom'
 import './app.css';
 import About from './components/About';
 import Nav from './components/Nav';
@@ -8,14 +8,15 @@ import Contact from './components/Contact';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <p>hi</p>
+      <HashRouter>
         <Nav />
       <Switch>
-          <Route component={About} path={['github.io/react-portfolio/', '/react-portfolio', '/']} exact/>
+          <Route component={About} path={[ '/react-portfolio/', '/']} exact/>
           <Route component={Portfolio} path='/portfolio'/>
           <Route component={Contact} path='/contact'/>
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }
